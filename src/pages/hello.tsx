@@ -16,7 +16,7 @@ export default function Hello() {
         <Heading as='h2' size='md' w="180px" noOfLines={1} bgGradient='linear(to-r,blue.400, pink.400)' bgClip='text'>This is Sum&apos;s site</Heading>
         <Heading as='h2' size='md' w="400px" noOfLines={1} bgGradient='linear(to-r,yellow.600, black)' bgClip='text'>This website is in preparation</Heading>
       </Box>
-      <Box backgroundColor="blue.50">
+      <Box backgroundColor="blue.100">
         <Stack direction='row' spacing={4}>
           <Button leftIcon={<MdBuild />} colorScheme='pink' variant='solid'>
           Settings
